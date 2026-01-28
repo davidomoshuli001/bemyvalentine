@@ -3,7 +3,7 @@
 A fun and interactive Valentine’s Day webpage built with **HTML, CSS, and JavaScript**.  
 Clicking **“Yes”** triggers a GIF change and a heart confetti explosion 💥💖.
 
-Perfect for sharing a sweet (and slightly dramatic 😏) Valentine moment.
+
 
 ---
 
