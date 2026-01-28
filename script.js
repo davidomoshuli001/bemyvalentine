@@ -4,7 +4,7 @@ const question = document.getElementById("question");
 
 yesBtn.addEventListener("click", () => {
   question.textContent = "💖 Yay! Happy Valentine’s Day! 💖";
-  gif.src = "happy.gif";
+  gif.src = "Happy Fresh Prince Of Bel Air GIF.gif";
   document.querySelector(".buttons").style.display = "none";
 
   launchHearts();
@@ -30,3 +30,4 @@ function launchHearts() {
     setTimeout(() => heart.remove(), 1500);
   }
 }
+
